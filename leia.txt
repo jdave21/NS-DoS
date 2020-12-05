@@ -1,0 +1,1 @@
+O NS-DoS è uma script feita em python, ela envia varios pacotes para um determinado host ate deixar ele fora do ar, qualquer uso indevido dessa script è de total responsabilidade sua, use com etica.
